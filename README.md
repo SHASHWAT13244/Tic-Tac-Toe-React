@@ -4,6 +4,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Responsive](https://img.shields.io/badge/Mobile--Responsive-00C896?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge&logo=github)]()
 
 ---
 
@@ -68,14 +69,8 @@ text
 | **Minimax**       | AI decision-making algorithm              |
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Run the app: `npm start`
-4. Open [http://localhost:3000](http://localhost:3000) to play!
-
+🌐 Live Demo
+🔗 
 ---
 
 ## 🎮 How to Play
@@ -90,6 +85,7 @@ text
 ---
 
 🧑‍💻 Author  
-[Your Name]  
-🔗 [Your GitHub Profile]  
-🔗 [Your LinkedIn Profile]  
+Shashwat Khandelwal
+🎓 CSE Student | 💻 Front-End Developer
+🔗 https://github.com/SHASHWAT13244
+🔗 https://www.linkedin.com/in/shashwat-khandelwal-a0564532b/
