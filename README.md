@@ -1,4 +1,59 @@
+# 🎮 Tic-Tac-Toe – React-Powered Game with AI Opponent
 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Responsive](https://img.shields.io/badge/Mobile--Responsive-00C896?style=for-the-badge)](#)
+
+---
+
+A feature-rich **Tic-Tac-Toe** game built with **React** that includes an unbeatable AI opponent, multiple themes, sound effects, and both single-player and local multiplayer modes. This project showcases modern React hooks, game logic, and responsive design.
+
+---
+
+## ✨ Overview
+
+**Tic-Tac-Toe** is a classic game reimagined with modern web technologies. This implementation features:
+
+- 🤖 Unbeatable AI using the minimax algorithm
+- 🎨 Multiple visual themes with smooth transitions
+- 🔊 Sound effects for moves and wins
+- 🌙 Dark/light mode toggle
+- 📊 Score tracking
+- ⏪ Move history and undo functionality
+
+Perfect for learning React state management, game algorithms, and interactive UI design.
+
+---
+
+## 🔧 Features
+
+- 🎮 Single-player vs AI and local multiplayer modes
+- 🧠 AI powered by minimax algorithm (unbeatable!)
+- 🎨 5 beautiful themes (default, neon, sketch, earth, cyber)
+- 🌙 Dark/light mode toggle
+- 🔊 Interactive sound effects
+- 📈 Score tracking across games
+- ⏮️ Undo functionality to revert moves
+- 📱 Fully responsive design
+- 🏆 Winning animation highlighting the winning line
+- 🎲 Random theme selection on game restart
+
+---
+
+## 📁 Project Structure
+tic-tac-toe/
+│
+├── src/
+│ ├── App.js # Main game component and logic
+│ ├── Board.js # Game board component
+│ ├── Square.js # Individual square component
+│ ├── index.js # React root
+│ └── index.css # All styles and animations
+│
+└── README.md # Project documentation
+
+text
 
 ---
 
