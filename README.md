@@ -4,7 +4,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Responsive](https://img.shields.io/badge/Mobile--Responsive-00C896?style=for-the-badge)](#)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge&logo=github)]()
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge&logo=github)](https://playtictacreact.netlify.app/)
 
 ---
 
@@ -70,7 +70,7 @@ text
 
 ---
 🌐 Live Demo
-🔗 
+🔗 https://playtictacreact.netlify.app/
 ---
 
 ## 🎮 How to Play
